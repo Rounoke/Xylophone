@@ -1,6 +1,5 @@
 package com.londonappbrewery.xylophonepm;
 
-import android.animation.AnimatorSet;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Bundle;
